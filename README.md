@@ -64,7 +64,7 @@ Similarly, if 20% of our meals are generating 80% revenue, we may wish to produc
 
 In this regard, the Pareto Rule can be a guide for how to allocate resources, time, and man-power efficiently.
 
-Suffice to say, if the business doesn't follow Pareto like our case, it doesn't call for alarm. Confidently, we could say majority of our delivery locations are performing well. Our direction may be focused on the least performing delivery location/meals to identify opportunities for improvement.
+Suffice to say, if the business doesn't follow Pareto like our case, it doesn't call for alarm. Confidently, we could say majority of our delivery locations are performing well. Our direction may be focused on the least performing delivery locations/meals to identify opportunities for improvement.
 
 ### Key Influencers
 
@@ -82,7 +82,7 @@ The `emailer_for_promotion` column is made up of two distinct entries: 0 or 1.
 `0` means the order wasn't driven by an email promotion
 `1` means the order was driven by an email promotion
 
-Consequently, the key influencers tells us that there is a direct relationship between number of orders and email promotion. Number of order is likely to increase when the send out promotion email for meals.
+Consequently, the key influencers tells us that there is a direct relationship between number of orders and email promotion. Number of order is likely to increase when they send out promotion email for meals.
 
 #### Homepage Feature vs Number of Orders
 
@@ -105,7 +105,7 @@ Conclusively, we've been able to identify insights into our food delivery busine
 
 Some other analysis not included in this article include predictive analytics that forecasts the next couple of weeks demands at various confidence intervals, Top-N analysis, and so on.
 
-If you're intersting in accessing the PowerBI file for this project, please do [send me a mail](mailto:chidindego@gmail.com). Thanks for your time. 
+If you're interested in accessing the PowerBI file for this project, please do [send me a mail](mailto:chidindego@gmail.com). Thanks for your time. 
 
 ## Reference
 
